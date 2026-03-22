@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "pyspark-iceberg-example"
+version = "0.1.0"
+description = "PySpark + Apache Iceberg local examples"
+authors = []
+readme = "README.md"
+packages = [{ include = "src" }]
+
+[tool.poetry.dependencies]
+python = "3.9"
+pyspark = "^3.5.0"
+faker = "^37.0.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = ">=8.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

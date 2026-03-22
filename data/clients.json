@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "firstname": "Harold",
+    "lastname": "Murray",
+    "email": "popemichael@example.com",
+    "phone_number": "001-715-877-5623x403",
+    "country_code": "MU"
+  },
+  {
+    "id": 2,
+    "firstname": "Jamie",
+    "lastname": "Perez",
+    "email": "harrisonashley@example.net",
+    "phone_number": "001-998-209-3589x447",
+    "country_code": "BF"
+  },
+  {
+    "id": 3,
+    "firstname": "Lisa",
+    "lastname": "Clark",
+    "email": "hlong@example.com",
+    "phone_number": "001-816-355-0673x64331",
+    "country_code": "KR"
+  },
+  {
+    "id": 4,
+    "firstname": "Travis",
+    "lastname": "Parks",
+    "email": "fmarquez@example.com",
+    "phone_number": "(664)757-9586x26281",
+    "country_code": "CY"
+  },
+  {
+    "id": 5,
+    "firstname": "Travis",
+    "lastname": "Cross",
+    "email": "ashleyhampton@example.com",
+    "phone_number": "453-307-3479",
+    "country_code": "GA"
+  },
+  {
+    "id": 6,
+    "firstname": "Christine",
+    "lastname": "Baker",
+    "email": "jpage@example.net",
+    "phone_number": "840.357.0223x801",
+    "country_code": "SN"
+  },
+  {
+    "id": 7,
+    "firstname": "Joshua",
+    "lastname": "Baker",
+    "email": "iyoder@example.org",
+    "phone_number": "(538)517-9429x1044",
+    "country_code": "GT"
+  },
+  {
+    "id": 8,
+    "firstname": "Allison",
+    "lastname": "Butler",
+    "email": "robinsonmatthew@example.com",
+    "phone_number": "3027178354",
+    "country_code": "PT"
+  },
+  {
+    "id": 9,
+    "firstname": "Michael",
+    "lastname": "Miller",
+    "email": "patellawrence@example.com",
+    "phone_number": "486.339.3694x70870",
+    "country_code": "NO"
+  },
+  {
+    "id": 10,
+    "firstname": "Rhonda",
+    "lastname": "Chavez",
+    "email": "barbara14@example.net",
+    "phone_number": "751.314.2345",
+    "country_code": "NO"
+  }
+]
